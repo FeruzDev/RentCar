@@ -1,0 +1,22 @@
+[
+  {
+    "carId": 1,
+    "model": "BMW",
+    "name":"Bmw"
+  },
+  {
+    "carId": 2,
+    "model": "Chevrolet",
+    "name":"Nexia"
+  },
+  {
+    "carId": 3,
+    "model": "Mercedes-Benz",
+    "name":"Mercedez"
+  },
+  {
+    "carId":4,
+    "model":"Daweo",
+    "name":"Damaz"
+  }
+]
